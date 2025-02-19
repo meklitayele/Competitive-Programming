@@ -15,7 +15,7 @@ class Solution:
                 prev.next = curr.next
                 curr = curr.next
             else:
-                prev = curr
+                prev = prev.next
                 curr = curr.next
             
 
