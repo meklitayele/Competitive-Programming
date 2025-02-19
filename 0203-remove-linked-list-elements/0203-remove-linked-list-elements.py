@@ -12,14 +12,14 @@ class Solution:
 
         while curr:
             if curr.val == val:
+                temp = curr
                 prev.next = curr.next
                 curr = curr.next
+                temp.next = None
             else:
                 prev = prev.next
                 curr = curr.next
-            
-
-        
+     
         return dummy.next
 
 
