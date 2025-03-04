@@ -6,7 +6,8 @@ class Solution:
 
         maxStep = 0
         for i , num  in enumerate(nums):
-            if  i + num >= n-1:
+            step = i + num
+            if  step >= n-1:
                 return True
             elif num == 0 and maxStep <= i:
                 return False
