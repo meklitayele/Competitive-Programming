@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/meklitayele/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-two-city-scheduling](https://github.com/meklitayele/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/meklitayele/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/meklitayele/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
+| [1095-two-city-scheduling](https://github.com/meklitayele/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 ## String
 |  |
