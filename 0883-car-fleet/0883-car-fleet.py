@@ -11,7 +11,7 @@ class Solution:
             time = (target - p) / s
             store.append(time)
 
-            if len(store) >= 2 and store[-1] <= store[-2]:
+            while len(store) >= 2 and store[-1] <= store[-2]:
                 store.pop()
 
         return len(store)
