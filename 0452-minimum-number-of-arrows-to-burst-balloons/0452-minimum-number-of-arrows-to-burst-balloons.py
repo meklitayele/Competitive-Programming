@@ -2,7 +2,7 @@ class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
         points.sort()
         n = len(points)
-        print(points)
+        # print(points)
 
         left = points[0][0]
         right = points[0][1]
