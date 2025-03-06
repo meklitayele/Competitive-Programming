@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/meklitayele/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/meklitayele/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
