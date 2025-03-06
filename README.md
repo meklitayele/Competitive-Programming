@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/meklitayele/Competitive-Programming/tree/master/0055-jump-game) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0525-contiguous-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/meklitayele/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/meklitayele/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
