@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/meklitayele/Competitive-Programming/tree/master/0055-jump-game) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/meklitayele/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
