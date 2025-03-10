@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/meklitayele/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/meklitayele/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/meklitayele/Competitive-Programming/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
