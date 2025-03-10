@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/meklitayele/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
+| [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/meklitayele/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/meklitayele/Competitive-Programming/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/meklitayele/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/meklitayele/Competitive-Programming/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
