@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/meklitayele/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/meklitayele/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/meklitayele/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/meklitayele/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/meklitayele/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
