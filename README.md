@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/meklitayele/Competitive-Programming/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/meklitayele/Competitive-Programming/tree/master/0055-jump-game) |
+| [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/meklitayele/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
