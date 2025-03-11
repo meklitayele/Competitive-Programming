@@ -1,16 +1,13 @@
 class Solution:
     def kthCharacter(self, k: int) -> str:
-        temp = 'a'
+        def generate(temp):
+            if len(temp) >= k:
+                return temp
+            curr = ''.join(chr(ord(char) + 1) if char != 'z' else 'a' for char in temp)
+            return generate(temp + curr)
         
-        while len(temp) < k:
-            curr = ''
-            for char in temp:
-                if char == 'z':
-                    curr += 'a'
-                else:
-                    curr += chr(ord(char) + 1 )
-            temp += curr
-        return temp[k-1] #1 indexed
+        ans = generate('a')
+        return ans[k-1]
 
 
         
