@@ -1,25 +1,24 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        def recu(i):
+        def rec(i):
             ans = []
             while i < len(s):
                 if s[i].isdigit():
-                    digit = ""
+                    digit = ''
                     while s[i] != '[':
                         digit += s[i]
-                        i +=1 
-                    res , index = recu(i+1)
+                        i += 1
+                    result , index = rec(i+1)
                     i = index
-                    ans.append(res * int(digit))
+                    ans.append(result * int(digit))
                 elif s[i] == ']':
                     return ''.join(ans) , i+1
                 else:
                     ans.append(s[i])
                     i+=1
             return ''.join(ans) , i
-            
-        result , index = recu(0)
-        return result
+        ans , index = rec(0)
+        return ans
         
 
 
