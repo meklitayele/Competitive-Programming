@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/meklitayele/Competitive-Programming/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
