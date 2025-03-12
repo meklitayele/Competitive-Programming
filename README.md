@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/meklitayele/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/meklitayele/Competitive-Programming/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/meklitayele/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/2050-count-good-numbers) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/meklitayele/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
