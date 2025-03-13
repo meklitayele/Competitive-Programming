@@ -1,15 +1,16 @@
 class Solution:
     def fib(self, n: int) -> int:
-        if n == 0:
-            return 0
-            
-        fib = [0] * (n+1)
-        fib[1] = 1
+        def calc(n):
+            if n == 1:
+                return 1
+            if n == 0:
+                return 0
 
-        for i in range(2,n+1):
-            fib[i] = fib[i-1] + fib[i-2]
-
-        return fib[-1]
+            return(calc(n-1) + calc(n-2))
+        
+        ans = calc(n)
+        return ans
+        
 
 
 
