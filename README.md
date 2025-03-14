@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0112-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
