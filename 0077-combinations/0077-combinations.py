@@ -1,13 +1,14 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         ans = []
-        def backtrack(i , store):
+        def backtrack(index,store):
             if len(store) == k:
                 ans.append(store[:])
-                return 
-            for j in range(i,n+1):
+            for j in range(index,n+1):
                 store.append(j)
                 backtrack(j+1,store)
                 store.pop()
         backtrack(1,[])
         return ans
+       
+        
