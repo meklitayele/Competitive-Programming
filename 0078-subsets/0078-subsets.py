@@ -7,7 +7,7 @@ class Solution:
             ans.append(store[:])
             for j in range(index,n):
                 store.append(nums[j])
-                print(store)
+                # print(store)
                 backtrack(j+1,store)
                 store.pop()
         backtrack(0,[])
