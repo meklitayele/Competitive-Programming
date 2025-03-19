@@ -4,9 +4,9 @@ class Solution:
         def backtrack(i , store):
             if len(store) == k:
                 ans.append(store[:])
-            for j in range(i+1,n+1):
+            for j in range(i,n+1):
                 store.append(j)
-                backtrack(j,store)
+                backtrack(j+1,store)
                 store.pop()
-        backtrack(0,[])
+        backtrack(1,[])
         return ans
