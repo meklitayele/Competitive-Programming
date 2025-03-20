@@ -4,6 +4,7 @@ class Solution:
         def backtrack(index,store):
             if len(store) == k:
                 ans.append(store[:])
+                return
             for j in range(index,n+1):
                 store.append(j)
                 backtrack(j+1,store)
