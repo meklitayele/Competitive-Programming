@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/meklitayele/Competitive-Programming/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/meklitayele/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
@@ -336,4 +337,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/meklitayele/Competitive-Programming/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/meklitayele/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
