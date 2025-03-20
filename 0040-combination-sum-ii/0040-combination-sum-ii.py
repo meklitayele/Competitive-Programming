@@ -6,7 +6,7 @@ class Solution:
         store = []
         def backtrack(index,s):
             if s == target:
-                ans.append(list(store) )
+                ans.append(store.copy() )
                 return
             if s>target:
                 return 
