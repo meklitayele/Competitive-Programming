@@ -3,21 +3,27 @@ class Solution:
         ans = []
         n = len(candidates)
         candidates.sort()
-        def backtrack(index,store):
-            if sum(store) == target:
+        store = []
+        def backtrack(index,s):
+            if s == target:
                 ans.append(list(store) )
                 return
+            if s>target:
+                return 
             
             for j in range(index,n):
-                if sum(store) < target:
+                if s < target:
                     store.append(candidates[j])
+                    s+=candidates[j]
                     if j > index and candidates[j] == candidates[j-1]:
-                        store.pop()
+                        
+                        s -= store.pop()
                         continue
-                    backtrack(j+1,store)
-                    store.pop()
+                    backtrack(j+1,s)
                     
-        backtrack(0,[])
+                    s -= store.pop()
+                    
+        backtrack(0,0)
         return ans
 
 
