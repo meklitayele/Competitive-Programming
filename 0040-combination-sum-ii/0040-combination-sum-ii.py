@@ -1,11 +1,11 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        ans = set()
+        ans = []
         n = len(candidates)
         candidates.sort()
         def backtrack(index,store):
             if sum(store) == target:
-                ans.add(tuple(sorted(store[:]) ))
+                ans.append(list(store) )
                 return
             
             for j in range(index,n):
@@ -18,7 +18,7 @@ class Solution:
                     store.pop()
                     
         backtrack(0,[])
-        return [list(num) for num in ans]
+        return ans
 
 
         
