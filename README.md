@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/meklitayele/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/meklitayele/Competitive-Programming/tree/master/0402-remove-k-digits) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/meklitayele/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/meklitayele/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/meklitayele/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -331,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/meklitayele/Competitive-Programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/meklitayele/Competitive-Programming/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
