@@ -13,12 +13,11 @@ class Solution:
             
             for j in range(index,n):
                 if s < target:
+                    if j > index and candidates[j] == candidates[j-1]:
+                        continue
                     store.append(candidates[j])
                     s+=candidates[j]
-                    if j > index and candidates[j] == candidates[j-1]:
-                        
-                        s -= store.pop()
-                        continue
+                   
                     backtrack(j+1,s)
                     
                     s -= store.pop()
