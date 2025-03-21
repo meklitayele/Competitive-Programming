@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Divide and Conquer
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
 | [1028-interval-list-intersections](https://github.com/meklitayele/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 ## Line Sweep
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/meklitayele/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1095-two-city-scheduling](https://github.com/meklitayele/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 ## String
 |  |
