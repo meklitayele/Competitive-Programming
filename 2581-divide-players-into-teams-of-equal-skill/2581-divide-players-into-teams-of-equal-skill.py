@@ -12,15 +12,13 @@ class Solution:
             if len(ans) >= 1 and sum(res) == sum(ans[-1]):
                 ans.append(res)
                 pro += skill[i] * skill[j]
-                print(pro)
+
             elif len(ans) < 1:
                 pro += skill[i] * skill[j]
                 ans.append(res)
             i += 1
             j -= 1
-        a = 0
-        print(ans)
-        print(pro)
+    
         if len(ans) == team:
             return pro
         else:
