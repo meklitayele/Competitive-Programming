@@ -2,20 +2,18 @@ class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
         ans = []
         n = len(nums)
-        def backtrack(index,store,idx):
+
+        def backtrack(idx,store,index):
             if len(store) == n and store not in ans:
                 ans.append(store[:])
-                return 
+                return
 
-            for i,num in enumerate(nums):
-                if i not in idx:
+            for i , num in enumerate(nums):
+                if i not in index:
                     store.append(num)
-                    idx.append(i)
-                    backtrack(i+1,store,idx)
+                    index.append(i)
+                    backtrack(0,store,index)
                     store.pop()
-                    idx.pop()
+                    index.pop()
         backtrack(0,[],[])
         return ans
-
-
-        
