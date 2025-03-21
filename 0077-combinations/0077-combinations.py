@@ -4,12 +4,10 @@ class Solution:
         def backtrack(index,store):
             if len(store) == k:
                 ans.append(store[:])
-                return
-            for j in range(index,n+1):
-                store.append(j)
+
+            for j in range(index,n):
+                store.append(j+1)
                 backtrack(j+1,store)
                 store.pop()
-        backtrack(1,[])
+        backtrack(0,[])
         return ans
-       
-        
