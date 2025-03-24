@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/meklitayele/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/meklitayele/Competitive-Programming/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/meklitayele/Competitive-Programming/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [0883-car-fleet](https://github.com/meklitayele/Competitive-Programming/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0890-lemonade-change) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/meklitayele/Competitive-Programming/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
