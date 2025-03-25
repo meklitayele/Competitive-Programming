@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/meklitayele/Competitive-Programming/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/meklitayele/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/meklitayele/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/meklitayele/Competitive-Programming/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/meklitayele/Competitive-Programming/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/meklitayele/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
