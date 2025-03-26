@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meklitayele/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [1285-balance-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/meklitayele/Competitive-Programming/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/meklitayele/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -428,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
