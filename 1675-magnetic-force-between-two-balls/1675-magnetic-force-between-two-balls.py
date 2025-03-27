@@ -2,9 +2,7 @@ class Solution:
     def maxDistance(self, position: List[int], m: int) -> int:
         position.sort()
         def valid(force):
-            prev = position[0]
-            count = 1
-            i = 1
+            prev ,count , i = position[0] , 1 , 1
             while i < len(position):
                 if(position[i] - prev) >= force:
                     count += 1
