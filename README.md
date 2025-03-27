@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/meklitayele/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/meklitayele/Competitive-Programming/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/meklitayele/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
