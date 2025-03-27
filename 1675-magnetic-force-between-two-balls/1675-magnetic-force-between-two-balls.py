@@ -8,6 +8,8 @@ class Solution:
             while i < len(position):
                 if(position[i] - prev) >= force:
                     count += 1
+                    if count == m:
+                        return True
                     prev = position[i]
                 i += 1
             return count >= m
