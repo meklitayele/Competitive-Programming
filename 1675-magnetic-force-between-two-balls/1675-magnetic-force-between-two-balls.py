@@ -2,34 +2,22 @@ class Solution:
     def maxDistance(self, position: List[int], m: int) -> int:
         position.sort()
         def valid(force):
-            prev ,count , i = position[0] , 1 , 1
+            count = 1
+            prev = position[0]
+            i = 1
             while i < len(position):
-                if(position[i] - prev) >= force:
+                if(position[i]-prev) >= force:
                     count += 1
-                    if count == m:
-                        return True
-                    prev = position[i]
+                    prev= position[i]
                 i += 1
-            return count >= m
+            return True if count >= m else False
 
-        left , right = 1 , max(position)
-        ans = 0
-        while left <= right:
-            mid = (left+right)//2
+        left , right = 1, max(position)
+        while left + 1 < right:
+            mid = (left + right)//2
             if valid(mid):
-                ans = max(mid,ans)
-                left = mid + 1
+                left = mid 
             else:
-                right = mid - 1
-        return ans
-
-
-
-
-
-
-
-
-
-
+                right = mid 
+        return left
        
