@@ -1,22 +1,18 @@
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
         def valid(time):
-            d = 0
+            total = 0
             for rank in ranks:
-                d += int(sqrt(time/rank))
-            if d >= cars:
-                return True
-            else:
-                return False
-
+                total += int(sqrt(time/rank))
+            return True if total >= cars else False
         left , right = 0 , pow(10,18)
-        while left + 1 < right:
-            mid = (left + right)//2
+        curr = right
+        while left <= right:
+            mid = (left + right)//2 
             if valid(mid):
-                right = mid
+                right = mid - 1
+                curr = mid
             else:
-                left = mid
-        return right
-
-        
-    
+                left = mid + 1
+        return curr
+       
