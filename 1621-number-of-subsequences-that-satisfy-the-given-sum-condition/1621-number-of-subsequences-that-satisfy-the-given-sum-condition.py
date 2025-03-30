@@ -7,7 +7,7 @@ class Solution:
         
         while left <= right:
             if nums[left] + nums[right] <= target:
-                count += pow(2,right - left,MOD)
+                count += pow(2,right - left)
                 left += 1
             else:
                 right -= 1
