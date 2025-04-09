@@ -1,23 +1,22 @@
 class Solution:
     def isBipartite(self, graph: List[List[int]]) -> bool:
-        n = len(graph)
-        colors = [-1] * n 
+        colors = {}
 
         def dfs(node,color):
+            if node in colors:
+                return colors[node] == color #becuase i passed the opposite value
+
             colors[node] = color
-            for n in graph[node]:
-                if colors[n] == -1 and not dfs(n,color ^ 1):
-                    return False
-                elif colors[n] == colors[node]:
+            for neighbour in graph[node]:
+                if not dfs(neighbour,1 -color ):
                     return False
             return True
-
-        for i in range(n):
-            if colors[i] == -1:
+        
+        for i in range(len(graph)):
+            if i not in colors:
                 if not dfs(i,0):
                     return False
         return True
-
-
-
+        
+        
         
