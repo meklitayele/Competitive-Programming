@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0268-missing-number) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/meklitayele/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/meklitayele/Competitive-Programming/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/meklitayele/Competitive-Programming/tree/master/0463-island-perimeter) |
 ## Heap (Priority Queue)
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
