@@ -1,25 +1,17 @@
 class Solution:
     def findChampion(self, n: int, edges: List[List[int]]) -> int:
-        store = defaultdict(list)
-        for i , j in edges:
-            store[i].append(j)
+        allWinner = [True] * n
+        for winner,loser in edges:
+            allWinner[loser] = False
         
-        def dfs(node,visited):
-            for ne in store[node]:
-                if ne not in visited:
-                    visited.add(ne)
-                    dfs(ne,visited)
-               
-
-
-        visited = set()
+        winnerCount = 0
+        winner = -1
         for i in range(n):
-            visited.add(i)
-            dfs(i,visited)
-            if len(visited) == n:
-                return i
-            visited = set()
+            if allWinner[i]:
+                winnerCount += 1
+                winner = i
+        if winnerCount == 1:
+            return winner
+        else:
+            return -1
 
-        return - 1
-
-            
