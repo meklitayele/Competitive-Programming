@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/meklitayele/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1285-balance-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/meklitayele/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/meklitayele/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/meklitayele/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [3189-find-champion-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3189-find-champion-ii) |
 ## Shortest Path
@@ -588,4 +591,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/meklitayele/Competitive-Programming/tree/master/0207-course-schedule) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
