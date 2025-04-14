@@ -21,8 +21,5 @@ class Solution:
                 if num.right:
                     array.append(num.right)
             res.append(curr)
-        ans = []
-        for i in range(len(res)-1,-1,-1):
-            ans.append(res[i])
-        return ans
+        return res[::-1]
 
