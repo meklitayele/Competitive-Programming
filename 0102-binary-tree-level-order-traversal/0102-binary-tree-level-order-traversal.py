@@ -14,7 +14,7 @@ class Solution:
         while array:
             curr = []
             count = len(array)
-            for _ in range(count):
+            for n in range(count):
                 num = array.popleft()
                 curr.append(num.val)
                 if num.left:
