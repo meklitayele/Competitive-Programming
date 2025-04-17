@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/meklitayele/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/meklitayele/Competitive-Programming/tree/master/0145-binary-tree-postorder-traversal) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/meklitayele/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/meklitayele/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
