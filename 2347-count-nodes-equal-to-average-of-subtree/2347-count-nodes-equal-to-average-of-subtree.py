@@ -9,21 +9,20 @@ class Solution:
         cnt = 0
         def search(root):
             nonlocal cnt
+
             if not root:
                 return (0,0)
-            
             ls , lc = search(root.left)
             rs , rc = search(root.right)
 
-            s = ls + rs + root.val
-            c = lc + rc + 1
+            sums = ls + rs + root.val
+            count = lc + rc + 1
 
-            if s // c == root.val:
+            if sums//count == root.val:
                 cnt += 1
+            
+            return (sums,count)
 
-            return (s,c)
         search(root)
         return cnt
-            
-
         
