@@ -8,18 +8,21 @@ class Solution:
     def levelOrderBottom(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        array = deque([root])
-        res = []
-        while array:
-            count = len(array)
-            curr = []
-            for _ in range(count):
-                num = array.popleft()
-                curr.append(num.val)
-                if num.left:
-                    array.append(num.left)
-                if num.right:
-                    array.append(num.right)
-            res.append(curr)
-        return res[::-1]
+        deq = deque()
+        deq.append(root)
+        final = []
 
+        while deq:
+            res = []
+            count = len(deq)
+            for _ in range(count):
+                v = deq.popleft()
+                res.append(v.val)
+                if v.left:
+                    deq.append(v.left)
+                if v.right:
+                    deq.append(v.right)
+                
+            final.append(res)
+
+        return final[::-1]
