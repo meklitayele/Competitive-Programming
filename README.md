@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/meklitayele/Competitive-Programming/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/meklitayele/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/meklitayele/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/meklitayele/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/meklitayele/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/meklitayele/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1005-univalued-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/meklitayele/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/meklitayele/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/meklitayele/Competitive-Programming/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/meklitayele/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/meklitayele/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/1171-shortest-path-in-binary-matrix) |
