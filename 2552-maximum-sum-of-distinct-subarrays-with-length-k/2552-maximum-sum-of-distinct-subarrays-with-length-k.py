@@ -1,31 +1,24 @@
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-        left = 0
-        num = set()
-        sums = 0
-        curr = 0
-
-        for end in range(n):
-            if nums[end] not in num:
+        start = 0
+        elements = set()
+        curr , maxs = 0 , 0
+        for end in range(len(nums)):
+            if nums[end] not in elements:
+                elements.add(nums[end])
                 curr += nums[end]
-                num.add(nums[end])
 
-                if end - left + 1 == k:
-                    sums = max(sums,curr)
-                    curr -= nums[left]
-                    num.remove(nums[left])
-                    left += 1
+                if end - start + 1 == k:
+                    maxs = max(maxs , curr)
+                    curr -= nums[start]
+                    elements.remove(nums[start])
+                    start += 1
             else:
-                while nums[left] != nums[end]:
-                    curr -= nums[left]
-                    num.remove(nums[left])
-                    left += 1
-                left += 1
-        return sums
-                
+                while nums[end] != nums[start]:
+                    elements.remove(nums[start])
+                    curr -= nums[start]
+                    start += 1
+                start += 1
+        return maxs
 
-
-
-
-        
+                    
