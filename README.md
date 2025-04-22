@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/meklitayele/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meklitayele/Competitive-Programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/meklitayele/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/meklitayele/Competitive-Programming/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/meklitayele/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/meklitayele/Competitive-Programming/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
@@ -692,4 +697,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/meklitayele/Competitive-Programming/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
