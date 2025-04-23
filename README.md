@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/meklitayele/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/meklitayele/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/meklitayele/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/meklitayele/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/meklitayele/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
