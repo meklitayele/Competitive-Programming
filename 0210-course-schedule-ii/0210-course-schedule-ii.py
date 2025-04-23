@@ -1,26 +1,40 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         store = defaultdict(list)
-        indegree = [0] * numCourses
-       
         for a , b in prerequisites:
             store[b].append(a)
-            indegree[a] += 1
 
-        deq = deque()
+        color = ['white'] * numCourses
+        res = []
+        flag = False
+        def dfs(node):
+            nonlocal flag
+            if color[node] == 'Grey':
+                flag = True
+                return 
+            if color[node] == 'Black':
+                return
+            color[node] = 'Grey'
+            for n in store[node]:
+                dfs(n)
+                if flag:
+                    return
+            color[node] = 'Black'
+            res.append(node)
+            
+
+
         for n in range(numCourses):
-            if indegree[n] == 0:
-                deq.append(n)
-        
-        visited = []
-        while deq:
-            course = deq.popleft()
-            visited.append(course)
-            for n in store[course]:
-                indegree[n] = max(0,indegree[n]-1)
-                if indegree[n] == 0:
-                    deq.append(n)
-        return visited if len(visited) == numCourses else []
+            if color[n] == 'white':
+                dfs(n)
+                if flag:
+                    return []
+    
 
+        return res[::-1]
+
+
+           
+       
 
             
