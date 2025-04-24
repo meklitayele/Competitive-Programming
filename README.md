@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/meklitayele/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/meklitayele/Competitive-Programming/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/meklitayele/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -691,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+| [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 | [2793-count-the-number-of-complete-components](https://github.com/meklitayele/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3189-find-champion-ii) |
 ## Shortest Path
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/meklitayele/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/meklitayele/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 ## Queue
 |  |
 | ------- |
