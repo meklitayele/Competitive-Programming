@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/meklitayele/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/meklitayele/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2793-count-the-number-of-complete-components](https://github.com/meklitayele/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/meklitayele/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/meklitayele/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/meklitayele/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/meklitayele/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 | [2793-count-the-number-of-complete-components](https://github.com/meklitayele/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/meklitayele/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/meklitayele/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/meklitayele/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 ## Queue
 |  |
