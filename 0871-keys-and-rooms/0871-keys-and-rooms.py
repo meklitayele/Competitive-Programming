@@ -3,15 +3,14 @@ class Solution:
         visited = set()
         visited.add(0)
 
-    
+
         def dfs(node):
             for room in rooms[node]:
                 if room not in visited:
                     visited.add(room)
                     dfs(room)
         dfs(0)
-        # print(visited)
-        return len(visited) == len(rooms)
+        return len(visited) == len(rooms) 
         
 
 
