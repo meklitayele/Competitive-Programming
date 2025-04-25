@@ -1,33 +1,30 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        outgoing = [0] * len(graph)
         store = defaultdict(list)
-        for n in range(len(graph)):
-            outgoing[n] = len(graph[n])
-            for v in graph[n]:
-                store[v].append(n)
-                
+        n = len(graph)
+        outdegree = [0] *n
         
-        terminal = deque()
-        for n in range(len(graph)):
-            if outgoing[n] == 0:
-                terminal.append(n)
-        
+        for i in range(n):
+            for v in graph[i]:
+                store[v].append(i)
+                outdegree[i] += 1
+        # print(store)
+        # print(outdegree)
+
+        deq = deque()
+        for i in range(n):
+            if outdegree[i] == 0:
+                deq.append(i)
+
         res = []
-        while terminal:
-            node = terminal.popleft()
+        while deq:
+            node = deq.popleft()
             res.append(node)
             for n in store[node]:
-                outgoing[n] -= 1
-                if outgoing[n] == 0:
-                    terminal.append(n)
-                    
+                outdegree[n] -= 1
+                if outdegree[n] == 0:
+                    deq.append(n)
         return sorted(res)
-            
-
 
         
-
-
-
 
