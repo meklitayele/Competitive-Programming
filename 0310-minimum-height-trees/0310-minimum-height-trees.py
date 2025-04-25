@@ -2,23 +2,23 @@ class Solution:
     def findMinHeightTrees(self, n: int, edges: List[List[int]]) -> List[int]:
         if n == 1:
             return [0]
-        indegree = [0] * n
         store = defaultdict(list)
+        indegree = [0] * n
         for x , y in edges:
             store[x].append(y)
             store[y].append(x)
             indegree[x] += 1
             indegree[y] += 1
         
+        size = n
         deq = deque()
-        for num in range(n):
-            if indegree[num] == 1:
-                deq.append(num)
+        for i in range(n):
+            if indegree[i] == 1:
+                deq.append(i)
 
-        leaf = n
-        while leaf > 2:
+        while size > 2:
             s = len(deq)
-            leaf -= s
+            size -= s
             for _ in range(s):
                 node = deq.popleft()
                 for n in store[node]:
@@ -26,5 +26,7 @@ class Solution:
                     if indegree[n] == 1:
                         deq.append(n)
         return list(deq)
-           
+
+
+
 
