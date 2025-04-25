@@ -1,23 +1,25 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
-        deq = deque()
-        deq.append((sr,sc,color))
-        visited =[(sr,sc)]
-        
-        start = image[sr][sc]
-        image[sr][sc] = color
-        directions = [(1,0),(-1,0),(0,1),(0,-1)]
-        def inbound(r,c):
-            return 0<=r<len(image) and 0<=c<len(image[0])
+        n , m = len(image) , len(image[0])
+        directions = [(0,1),(1,0),(0,-1),(-1,0)]
+        def inbound(x,y):
+            return 0<=x<n and 0<=y<m
 
+
+        deq = deque()
+        deq.append((sr,sc))
+        org = image[sr][sc]
+        if org == color:
+            return image
+            
         while deq:
-            r , c , color = deq.popleft()
+            x , y = deq.popleft()
+            image[x][y] = color
             for dx , dy in directions:
-                newx , newy = dx + r , dy + c
-                if inbound(newx,newy) and image[newx][newy] == start and (newx,newy)not in visited:
-                    visited.append((newx,newy))
+                newx , newy = x + dx , y + dy
+                if inbound(newx,newy) and image[newx][newy] == org:
                     image[newx][newy] = color
-                    deq.append((newx,newy,color))
-                    
+                    deq.append((newx,newy))
         return image
 
+      
