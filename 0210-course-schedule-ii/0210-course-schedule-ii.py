@@ -1,14 +1,15 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        store = defaultdict(list)
         indegree = [0] * numCourses
+        store = defaultdict(list)
         for x , y in prerequisites:
             store[y].append(x)
             indegree[x] += 1
+
         deq = deque()
-        for n in range(numCourses):
-            if indegree[n] == 0:
-                deq.append(n)
+        for i in range(numCourses):
+            if indegree[i] == 0:
+                deq.append(i)
         
         res = []
         while deq:
@@ -19,7 +20,3 @@ class Solution:
                 if indegree[n] == 0:
                     deq.append(n)
         return res if len(res) == numCourses else []
-
-
-        
-        
