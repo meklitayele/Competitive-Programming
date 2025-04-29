@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0268-missing-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/meklitayele/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Union Find
 |  |
