@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/meklitayele/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/meklitayele/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/meklitayele/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/meklitayele/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/meklitayele/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/meklitayele/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/meklitayele/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/meklitayele/Competitive-Programming/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/meklitayele/Competitive-Programming/tree/master/0645-set-mismatch) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0883-car-fleet](https://github.com/meklitayele/Competitive-Programming/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/meklitayele/Competitive-Programming/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/meklitayele/Competitive-Programming/tree/master/0402-remove-k-digits) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 ## Data Stream
@@ -652,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/meklitayele/Competitive-Programming/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/meklitayele/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -664,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -737,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/meklitayele/Competitive-Programming/tree/master/0146-lru-cache) |
 | [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
