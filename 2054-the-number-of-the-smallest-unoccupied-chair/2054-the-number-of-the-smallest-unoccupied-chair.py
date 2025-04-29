@@ -1,22 +1,18 @@
 class Solution:
     def smallestChair(self, times: List[List[int]], targetFriend: int) -> int:
-        chair = [i for i in range(len(times))]
-        order = [(idx,f) for idx , f in enumerate(times)]
-        order.sort(key= lambda x : x[1][0],reverse = True)
+        n = len(times)
+        arrivals = [(times[i][0] , i) for i in range(n)]
+        arrivals.sort()
 
-        heapq.heapify(chair)
-        leave = []
-        heapq.heapify(leave)
-        time = 0
+        free = list(range(n))
+        heapq.heapify(free)
 
-        while True:
-            time += 1
-            while leave and time == leave[0][0]:
-                l , c = heappop(leave)
-                heappush(chair,c)
-            if order[-1][1][0] == time:
-                ch = heappop(chair)
-                idx , tup = order.pop()
-                if idx == targetFriend:
-                    return ch
-                heappush(leave,(tup[1],ch))
+        leaving = []
+        for at , idx in arrivals:
+            while leaving and leaving[0][0] <= at:
+                heapq.heappush(free,heapq.heappop(leaving)[1])
+            chair = heapq.heappop(free)
+            if idx  == targetFriend:
+                return chair
+            heapq.heappush(leaving,(times[idx][1],chair))
+        return -1
