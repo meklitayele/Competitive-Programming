@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/meklitayele/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/meklitayele/Competitive-Programming/tree/master/1095-two-city-scheduling) |
 | [1117-as-far-from-land-as-possible](https://github.com/meklitayele/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
+| [1127-last-stone-weight](https://github.com/meklitayele/Competitive-Programming/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/meklitayele/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/meklitayele/Competitive-Programming/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/meklitayele/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Merge Sort
 |  |
