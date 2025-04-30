@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/0838-design-linked-list) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
+| [1955-seat-reservation-manager](https://github.com/meklitayele/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 ## Math
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/meklitayele/Competitive-Programming/tree/master/1127-last-stone-weight) |
 | [1762-furthest-building-you-can-reach](https://github.com/meklitayele/Competitive-Programming/tree/master/1762-furthest-building-you-can-reach) |
+| [1955-seat-reservation-manager](https://github.com/meklitayele/Competitive-Programming/tree/master/1955-seat-reservation-manager) |
 | [1962-single-threaded-cpu](https://github.com/meklitayele/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/meklitayele/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/meklitayele/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
