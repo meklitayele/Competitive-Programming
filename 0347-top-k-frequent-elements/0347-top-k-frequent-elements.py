@@ -1,21 +1,13 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         store = defaultdict(int)
-        for i in range(len(nums)):
-            store[nums[i]] += 1
-        val= list(store.items())
-        val = [(-count,num) for num , count in val]
+        for num in nums:
+            store[num] -= 1
         
-        heapq.heapify(val)
-        count = 0
-        res = []
-        while count < k:
-            freq , num = heappop(val)
-            res.append(num)
-            count += 1
-        return res
+        store = list(store.items())
+        store = [(count,num) for (num,count) in store]
 
+        heapq.heapify(store)
+        ans = heapq.nsmallest(k,store)
+        return [x[1] for x in ans]
         
-
-
-
