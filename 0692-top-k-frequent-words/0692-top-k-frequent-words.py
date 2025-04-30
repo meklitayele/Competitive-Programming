@@ -3,22 +3,13 @@ class Solution:
         store = defaultdict(int)
         for word in words:
             store[word] -= 1
-        heap = list(store.items())
-        heap = [(count,word) for word , count in heap]
-        # print(heap)
+        store = list(store.items())
+        store = [(count,val) for (val,count) in store]
+        heapq.heapify(store)
 
-        heapq.heapify(heap)
-        res = []
-        for _ in range(k):
-            ans = heappop(heap)
-            res.append(ans[1])
-        return res
+        ans = heapq.nsmallest(k,store)
+        return [x[1] for x in ans]
         
 
 
-
-
-    
         
-
-    
