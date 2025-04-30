@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3643-zero-array-transformation-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/meklitayele/Competitive-Programming/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
 |  |
 | ------- |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/meklitayele/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/meklitayele/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/meklitayele/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Merge Sort
 |  |
 | ------- |
