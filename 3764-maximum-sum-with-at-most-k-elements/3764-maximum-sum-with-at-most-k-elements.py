@@ -1,34 +1,23 @@
 class Solution:
     def maxSum(self, grid: List[List[int]], limits: List[int], k: int) -> int:
-        for g in grid:
-            heapq.heapify(g)
-
-        store = []
-        for idx , val in enumerate(grid):
-            store.extend([(-v,idx)  for v in val])
-        heapq.heapify(store)
-
-        res = []
-        while len(res) < k:
-            ans , idx = heapq.heappop(store)
-            if limits[idx] == 0:
-                continue
-            else:
-                limits[idx] -= 1
-                res.append(-ans)
-        return (sum(res))
-
-
-
-
-        print(store)
-
-
-
-
-
-
-
-
+        array = []
+        for idx , v in enumerate(grid):
+            array.extend([-vals , idx] for vals in v)
+        
+        heapq.heapify(array)
+        
+         
+        count = 0
+        sums = 0
+        while count < k:
+            val = heappop(array)
+            if limits[val[1]] > 0:
+                sums += -(val[0])
+                limits[val[1]] -= 1
+                count += 1
+        return sums
+            
 
         
+
+            
