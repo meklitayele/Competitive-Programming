@@ -4,11 +4,17 @@ class Solution:
         for word in words:
             store[word] -= 1
         store = list(store.items())
-        store = [(count,val) for (val,count) in store]
+        store = [(count,word) for (word,count) in store]
         heapq.heapify(store)
+        
+        count = 0
+        res = []
+        while count < k:
+            count += 1
+            ans = heappop(store)
+            res.append(ans[1])
+        return res
 
-        ans = heapq.nsmallest(k,store)
-        return [x[1] for x in ans]
         
 
 
