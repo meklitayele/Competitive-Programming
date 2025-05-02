@@ -3,12 +3,9 @@ class Solution:
         store = defaultdict(int)
         for num in nums:
             store[num] += 1
-        
         store = list(store.items())
-        store = [(count,num) for (num,count) in store]
-
+        store = [(count, num) for (num , count) in store]
         heapq.heapify(store)
-        ans = heapq.nlargest(k,store)
-        print(ans)
-        return [x[1] for x in ans]
-        
+
+        res = heapq.nlargest(k,store)
+        return ([r[1] for r in res])
