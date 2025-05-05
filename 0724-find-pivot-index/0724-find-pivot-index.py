@@ -9,8 +9,7 @@ class Solution:
         for i in range(n-2,-1,-1):
             right[i] = nums[i+1] + right[i+1]
 
-        print(left)
-        print(right)
+      
         for i in range(n):
             if left[i] == right[i]:
                 return i
