@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0724-find-pivot-index](https://github.com/meklitayele/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/meklitayele/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/meklitayele/Competitive-Programming/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/meklitayele/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/meklitayele/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/meklitayele/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
