@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/meklitayele/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
 | [1028-interval-list-intersections](https://github.com/meklitayele/Competitive-Programming/tree/master/1028-interval-list-intersections) |
+| [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/meklitayele/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/meklitayele/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
+| [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/meklitayele/Competitive-Programming/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/meklitayele/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/meklitayele/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/meklitayele/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/meklitayele/Competitive-Programming/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
+| [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/meklitayele/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
