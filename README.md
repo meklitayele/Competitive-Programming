@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/meklitayele/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/meklitayele/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/meklitayele/Competitive-Programming/tree/master/0739-daily-temperatures) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/meklitayele/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/meklitayele/Competitive-Programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/meklitayele/Competitive-Programming/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/meklitayele/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/meklitayele/Competitive-Programming/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/1018-largest-perimeter-triangle) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/meklitayele/Competitive-Programming/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/meklitayele/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/meklitayele/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/meklitayele/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
@@ -603,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/meklitayele/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/meklitayele/Competitive-Programming/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/meklitayele/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/meklitayele/Competitive-Programming/tree/master/0753-open-the-lock) |
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
@@ -738,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/meklitayele/Competitive-Programming/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/meklitayele/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/meklitayele/Competitive-Programming/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/meklitayele/Competitive-Programming/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/meklitayele/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
