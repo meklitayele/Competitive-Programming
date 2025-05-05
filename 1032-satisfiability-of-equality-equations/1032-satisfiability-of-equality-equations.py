@@ -37,17 +37,17 @@ class Solution:
             e1 , e2 = word[1] , word[2]
             if e1 == '=':
                 union(w1,w2) 
-        print(parents)
+        # print(parents)
        
         for word in equations:
             w1 , w2 = word[0] , word[3]
             e1 , e2 = word[1] , word[2]
             if e1 == '!':
-                print(find(w1))
-                print(find(w2))
+                # print(find(w1))
+                # print(find(w2))
                 if find(w1) == find(w2):
                     return False
-        print(parents)
+        # print(parents)
             
     
         return True
