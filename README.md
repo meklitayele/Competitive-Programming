@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/meklitayele/Competitive-Programming/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/meklitayele/Competitive-Programming/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/meklitayele/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/meklitayele/Competitive-Programming/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/1675-magnetic-force-between-two-balls) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/1285-balance-a-binary-search-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/meklitayele/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/meklitayele/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/meklitayele/Competitive-Programming/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/meklitayele/Competitive-Programming/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/meklitayele/Competitive-Programming/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/meklitayele/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/meklitayele/Competitive-Programming/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/meklitayele/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/meklitayele/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1117-as-far-from-land-as-possible](https://github.com/meklitayele/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/meklitayele/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/meklitayele/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/meklitayele/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/meklitayele/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/meklitayele/Competitive-Programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/meklitayele/Competitive-Programming/tree/master/2793-count-the-number-of-complete-components) |
