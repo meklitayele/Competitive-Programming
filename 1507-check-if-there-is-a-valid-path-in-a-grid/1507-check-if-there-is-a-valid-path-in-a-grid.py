@@ -2,8 +2,7 @@ class Solution:
     def hasValidPath(self, grid: List[List[int]]) -> bool:
         n , m = len(grid) , len(grid[0])
         parent = {i:i for i in range(n*m)}
-        size = [1] * (n*m)
-
+        
         def find(x):
             if parent[x] == x:
                 return x
@@ -13,12 +12,8 @@ class Solution:
         def union(x,y):
             r1 , r2 = find(x) , find(y)
             if r1 != r2:
-                if size[r1] > size[r2]:
-                    size[r1] += size[r2]
-                    parent[r2] = r1
-                else:
-                    size[r2] += size[r1]
-                    parent[r1] = r2
+                parent[r2] = r1
+                
         direction = {
             'left' : (0,-1),
             'right' : (0,1),
