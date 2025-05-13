@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0886-score-of-parentheses) |
 | [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/meklitayele/Competitive-Programming/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/meklitayele/Competitive-Programming/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/meklitayele/Competitive-Programming/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/meklitayele/Competitive-Programming/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/meklitayele/Competitive-Programming/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/meklitayele/Competitive-Programming/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/meklitayele/Competitive-Programming/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/meklitayele/Competitive-Programming/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
