@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/meklitayele/Competitive-Programming/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/meklitayele/Competitive-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/meklitayele/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
