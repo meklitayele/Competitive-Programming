@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/meklitayele/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/meklitayele/Competitive-Programming/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/meklitayele/Competitive-Programming/tree/master/0475-heaters) |
+| [0477-total-hamming-distance](https://github.com/meklitayele/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/meklitayele/Competitive-Programming/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0525-contiguous-array) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/meklitayele/Competitive-Programming/tree/master/0441-arranging-coins) |
+| [0477-total-hamming-distance](https://github.com/meklitayele/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meklitayele/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/meklitayele/Competitive-Programming/tree/master/0797-rabbits-in-forest) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/meklitayele/Competitive-Programming/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/meklitayele/Competitive-Programming/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/meklitayele/Competitive-Programming/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/meklitayele/Competitive-Programming/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/meklitayele/Competitive-Programming/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
