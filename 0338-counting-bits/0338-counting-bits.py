@@ -3,13 +3,13 @@ class Solution:
         res = []
         for i in range(n+1):
             count = 0
-            num = i
-            while  num > 0:
-                if num % 2 != 0:
+            while i > 0 :
+                if i % 2 != 0:
                     count += 1
-                num = num // 2
+                i //= 2
             res.append(count)
         return res
+            
            
 
 
