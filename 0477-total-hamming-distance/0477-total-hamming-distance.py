@@ -3,9 +3,9 @@ class Solution:
         count = 0
         n = len(nums)
         for i in range(32):
-            sums = sum((num>>i) & 1 for num in nums)
-            count += sums * (n-sums)
-
+            ones = sum(((num>>i) & 1) for num in nums)
+            zeros = n - ones
+            count += ones * zeros
 
 
 
