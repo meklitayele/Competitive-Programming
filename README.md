@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/meklitayele/Competitive-Programming/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/meklitayele/Competitive-Programming/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/meklitayele/Competitive-Programming/tree/master/0316-remove-duplicate-letters) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/meklitayele/Competitive-Programming/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/meklitayele/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/meklitayele/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/meklitayele/Competitive-Programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/meklitayele/Competitive-Programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0136-single-number) |
