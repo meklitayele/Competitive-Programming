@@ -1,20 +1,22 @@
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
-        ans = 0
-        a = a[::-1]
-        newA ,newB = 0 , 0
-        for i in range(len(a)):
-            newA += int(a[i]) * pow(2,i)
+        newA = 0
+        c = 0
+        for i in range(len(a)-1,-1,-1):
+            newA += pow(2,c) * int(a[i])
+            c+= 1
+        print(newA)
+        
+        newB = 0
+        c = 0
+        for i in range(len(b)-1,-1,-1):
+            newB += pow(2,c) * int(b[i])
+            c += 1
+        
+        return str(bin(newA+newB)[2:])
 
-        b = b[::-1]
-        for i in range(len(b)):
-            newB += int(b[i]) * pow(2,i)
-        
-        
-        value = newA + newB
-        return (bin(value)[2:])
-        
     
+
 
         
       
