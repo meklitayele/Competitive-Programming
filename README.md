@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/meklitayele/Competitive-Programming/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/meklitayele/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meklitayele/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/1046-max-consecutive-ones-iii) |
 | [1873-longest-nice-substring](https://github.com/meklitayele/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2478-longest-nice-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meklitayele/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/0800-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1873-longest-nice-substring](https://github.com/meklitayele/Competitive-Programming/tree/master/1873-longest-nice-substring) |
+| [2478-longest-nice-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/meklitayele/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2621-find-xor-beauty-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meklitayele/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
