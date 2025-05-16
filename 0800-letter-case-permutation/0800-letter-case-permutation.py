@@ -1,24 +1,16 @@
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
-        letters = []
-        index = []
+        #store the index of the letters
+        index = [index for index , char in enumerate(s) if char.isalpha()]
+        n = len(index)
+        ans = []
 
-        #store the index and letter for easier access
-        for i in range(len(s)):
-            if s[i].isalpha():
-                index.append(i)
-            letters.append(s[i])
-
-        n =  len(index)
-        # 00 01 10 11
-        res = []
         for i in range(1<<n):
-            word = letters[:]
+            word = list(s)
             for j in range(n):
-                if ((1 <<  j) & i):
+                if (i >> j ) & 1:
                     word[index[j]] = word[index[j]].upper()
                 else:
                     word[index[j]] = word[index[j]].lower()
-
-            res.append(''.join(word))
-        return res
+            ans.append(''.join(word))
+        return ans
