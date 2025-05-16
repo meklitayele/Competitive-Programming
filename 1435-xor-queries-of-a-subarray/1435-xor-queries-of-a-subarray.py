@@ -1,17 +1,17 @@
 class Solution:
     def xorQueries(self, arr: List[int], queries: List[List[int]]) -> List[int]:
         prefix = []
-        n = len(arr)
         start = 0
-        for i in range(n):
-            start ^= arr[i]
+        for val in arr:
+            start ^= val
             prefix.append(start)
         
-        print(prefix)
         res = []
-        
-        for s , e in queries:
-            s -= 1
-            res.append(prefix[e] if s < 0 else prefix[e] ^ prefix[s])
-           
+        for l , r in queries:
+            l -= 1
+            if l < 0 :
+                res.append(prefix[r])
+            else:
+                res.append(prefix[r] ^ prefix[l])
         return res
+
