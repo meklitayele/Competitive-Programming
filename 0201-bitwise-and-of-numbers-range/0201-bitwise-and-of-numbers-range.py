@@ -6,12 +6,8 @@ class Solution:
         #     left +=1
         # print(start)
 
+        while right > left:
+            right &= (right-1)
+        return right
+
      
-        count = 0
-        while left != right:
-            left >>= 1
-            right >>= 1
-            count += 1
-        
-        start = left << count
-        return start
