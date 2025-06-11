@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/meklitayele/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/meklitayele/Competitive-Programming/tree/master/2556-convert-the-temperature) |
 | [2621-find-xor-beauty-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
