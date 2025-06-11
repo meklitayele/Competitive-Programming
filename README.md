@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/meklitayele/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/meklitayele/Competitive-Programming/tree/master/0071-simplify-path) |
@@ -857,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/meklitayele/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/meklitayele/Competitive-Programming/tree/master/0692-top-k-frequent-words) |
 ## Minimum Spanning Tree
 |  |
