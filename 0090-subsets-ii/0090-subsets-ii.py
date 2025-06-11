@@ -1,17 +1,15 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         ans = []
+        store = []
         n = len(nums)
-        nums.sort()
-        def backtrack(index,store):
-            if store not in ans:
-                ans.append(store[:])
-
-            for j in range(index,n):
-                store.append(nums[j])
-                backtrack(j+1,store)
-                store.pop()
-        backtrack(0,[])
+        for i in range(1<<n):
+            soln = []
+            for j in range(n):
+                if (i >> j) & 1:
+                    soln.append(nums[j])
+            if sorted(soln) not in store:
+                store.append(sorted(soln))
+                ans.append(soln)
+        
         return ans
-
-
