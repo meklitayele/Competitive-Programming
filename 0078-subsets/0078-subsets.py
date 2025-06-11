@@ -1,16 +1,21 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # the number of possible subsets
+        ans = []
         n = len(nums)
-        res = []
-        for i in range(pow(2,n)):
-            temp = []
-            for j in range(i):
+        for i in range(1<<n):
+            store = []
+            for j in range(n):
                 if (i >> j) & 1:
-                    temp.append(nums[j])
-            res.append(temp)
-        return res
+                    store.append(nums[j])
+            ans.append(store)
+            
+        return ans
 
+
+
+
+
+        return
 
 
        
