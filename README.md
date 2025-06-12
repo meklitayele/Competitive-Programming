@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/meklitayele/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/meklitayele/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/meklitayele/Competitive-Programming/tree/master/0146-lru-cache) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/meklitayele/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/meklitayele/Competitive-Programming/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/meklitayele/Competitive-Programming/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/meklitayele/Competitive-Programming/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/meklitayele/Competitive-Programming/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/meklitayele/Competitive-Programming/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/meklitayele/Competitive-Programming/tree/master/0069-sqrtx) |
