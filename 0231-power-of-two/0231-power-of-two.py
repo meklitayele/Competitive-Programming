@@ -1,18 +1,13 @@
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
-        def calc(num):
-            while num > 1:
-                num /= 2
-            if num == 1:
-                return True
-            else:
-                return False
-        
-        if calc(n):
+        p = 0
+        num = 2
+        while pow(num,p) < n:
+            p += 1 
+        if pow(num,p) == n:
             return True
         else:
             return False
-
 
             
 
