@@ -8,11 +8,12 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
+        #handle when we only have left or right chile
         if not root.left:
             return self.minDepth(root.right) + 1
         if not root.right:
             return self.minDepth(root.left) + 1
             
-        return min(self.minDepth(root.left) + 1,self.minDepth(root.right) + 1) 
+        return min(self.minDepth(root.right)+1,self.minDepth(root.left)+1)
     
         
