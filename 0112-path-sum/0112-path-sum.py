@@ -6,21 +6,24 @@
 #         self.right = right
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        @cache
-        def calc(node,total):
-            if not node:
-                return False
+        #use the difference instead of passing the sum using cache
+        #if if has no root then it's false
+        if not root:
+            return False
+        
+        targetSum -= root.val
+        if not root.right and not root.left:
+            return targetSum == 0
+        
+        return self.hasPathSum(root.left,targetSum) or self.hasPathSum(root.right,targetSum)
 
-            total += node.val
-            if not node.right and not node.left:
-                return total == targetSum
 
-            return calc(node.left,total) or calc(node.right,total)
-
-        ans = calc(root,0)
-        return ans
-         
             
+
+
+
+
+        
             
             
 
