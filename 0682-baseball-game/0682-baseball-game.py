@@ -5,12 +5,7 @@ class Solution:
             if op == 'C':
                 store.pop()
             elif op == '+':
-                x = store.pop()
-                y = store.pop()
-                z = x + y
-
-                store.append(y)
-                store.append(x)
+                z = store[-1] + store[-2]
                 store.append(z)
             elif op == 'D':
                 x = store[-1]
