@@ -1,22 +1,25 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        indegree = [0] * numCourses
+        ans = []
+        degree = [0] * numCourses
         store = defaultdict(list)
-        for x , y in prerequisites:
-            store[y].append(x)
-            indegree[x] += 1
-
         deq = deque()
+        degree = [0] * numCourses
+
+        for x , y in prerequisites:
+            degree[x] += 1
+            store[y].append(x)
+
         for i in range(numCourses):
-            if indegree[i] == 0:
+            if degree[i] == 0:
                 deq.append(i)
         
-        res = []
         while deq:
             node = deq.popleft()
-            res.append(node)
+            ans.append(node)
             for n in store[node]:
-                indegree[n] -= 1
-                if indegree[n] == 0:
+                degree[n] -= 1
+                if degree[n] == 0:
                     deq.append(n)
-        return res if len(res) == numCourses else []
+        
+        return ans if len(ans) == numCourses else []
