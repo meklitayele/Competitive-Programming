@@ -1,26 +1,26 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        n = numCourses
-        color = ['white' for _ in range(n)]
+        total = []
         store = defaultdict(list)
-
-        for i , j in prerequisites:
-            store[i].append(j)
+        degree =  [0] * numCourses
+        for x , y in prerequisites:
+            store[x].append(y)
+            degree[y] += 1
         
-        def dfs(node):
-            if color[node] == 'grey':
-                return False
-            if color[node] == 'black':
-                return True
+        deq = deque()
+        for i in range(numCourses):
+            if degree[i] == 0:
+                deq.append(i)
 
-            color[node] = 'grey'
+        while deq:
+            node = deq.popleft()
+            total.append(node)
             for n in store[node]:
-                if not dfs(n):
-                    return False
-            color[node] = 'black'
-            return True
+                degree[n] -= 1
+                if degree[n] == 0:
+                    deq.append(n)
+        ans = len(total) == numCourses
+        return ans
+                
 
-        for i in range(n):
-            if not dfs(i):
-                return False
-        return True
+
