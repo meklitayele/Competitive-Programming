@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/meklitayele/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/meklitayele/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/meklitayele/Competitive-Programming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/meklitayele/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/meklitayele/Competitive-Programming/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/meklitayele/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/meklitayele/Competitive-Programming/tree/master/0463-island-perimeter) |
