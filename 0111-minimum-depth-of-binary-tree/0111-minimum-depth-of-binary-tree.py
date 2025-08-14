@@ -6,14 +6,17 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
+        #more appropriate to use BFS
         if not root:
             return 0
-        #handle when we only have left or right chile
-        if not root.left:
-            return self.minDepth(root.right) + 1
-        if not root.right:
-            return self.minDepth(root.left) + 1
-            
-        return min(self.minDepth(root.right)+1,self.minDepth(root.left)+1)
+        deq = deque([(root,1)])
+        while deq:
+            node , depth = deq.popleft()
+            if not node.left and not node.right:
+                return depth
+            if node.left:
+                deq.append([node.left,depth+1])
+            if node.right:
+                deq.append([node.right,depth+1])
     
         
