@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/meklitayele/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [1873-longest-nice-substring](https://github.com/meklitayele/Competitive-Programming/tree/master/1873-longest-nice-substring) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/meklitayele/Competitive-Programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/meklitayele/Competitive-Programming/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/meklitayele/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
