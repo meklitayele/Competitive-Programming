@@ -7,14 +7,14 @@
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         ans = []
-        if not root:
-            return ans
-        
         deq = deque([root])
+        if not root:
+            return []
+        
         while deq:
-            count = len(deq)
+            n = len(deq)
             curr = []
-            for _ in range(count):
+            for _ in range(n):
                 node = deq.popleft()
                 curr.append(node.val)
                 if node.left:
@@ -23,5 +23,5 @@ class Solution:
                     deq.append(node.right)
             ans.append(curr)
         return ans
+                
 
-       
