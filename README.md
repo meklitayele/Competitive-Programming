@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/meklitayele/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
+| [0279-perfect-squares](https://github.com/meklitayele/Competitive-Programming/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/meklitayele/Competitive-Programming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/meklitayele/Competitive-Programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/meklitayele/Competitive-Programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/meklitayele/Competitive-Programming/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/meklitayele/Competitive-Programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/meklitayele/Competitive-Programming/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/meklitayele/Competitive-Programming/tree/master/0371-sum-of-two-integers) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/meklitayele/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/meklitayele/Competitive-Programming/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/meklitayele/Competitive-Programming/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
