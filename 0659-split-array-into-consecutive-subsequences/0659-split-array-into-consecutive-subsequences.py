@@ -12,12 +12,11 @@ class Solution:
             else:
                 heapq.heappush(endings[num],1)
         
-        for heap in endings.values():
-            if heap and heap[0]< 3:
+        for lst in endings.values():
+            if lst and lst[0] < 3:
                 return False
         return True
-        
-
+         
 
 
 
