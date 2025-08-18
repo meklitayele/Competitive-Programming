@@ -1,20 +1,11 @@
 class Solution:
     def fib(self, n: int) -> int:
-        def calc(n):
-            if n == 1:
-                return 1
-            if n == 0:
+        def calc(num):
+            if num == 0:
                 return 0
-
-            return(calc(n-1) + calc(n-2))
-        
-        ans = calc(n)
-        return ans
-        
-
-
-
-
-       
+            if num == 1:
+                return 1
+            return calc(num-1) + calc(num-2)
+        return calc(n)
 
         
