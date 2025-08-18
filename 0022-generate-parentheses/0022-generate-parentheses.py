@@ -1,22 +1,23 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         ans = []
-        def backtrack(opens,close,store):
-            if len(store) == 2*n:
-                val = ''.join(store)
-                ans.append(val)
-                return
-            if opens < n :
+        
+        def calc(store,opn,close):
+            if opn < n:
                 store.append('(')
-                backtrack(opens+1,close,store)
+                calc(store,opn+1,close)
                 store.pop()
-            if close < opens:
+            if close < opn:
                 store.append(')')
-                backtrack(opens,close+1,store)
+                calc(store,opn,close+1)
                 store.pop()
+    
+            if opn == close == n:
+                ans.append(''.join(store))
+        
+        calc([],0,0)
+        return ans
 
+        
 
             
-        backtrack(0,0,[])
-        return ans
-        
