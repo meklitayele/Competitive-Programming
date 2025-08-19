@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/meklitayele/Competitive-Programming/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/meklitayele/Competitive-Programming/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2478-longest-nice-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/meklitayele/Competitive-Programming/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/meklitayele/Competitive-Programming/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/meklitayele/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/meklitayele/Competitive-Programming/tree/master/2556-convert-the-temperature) |
 | [2621-find-xor-beauty-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
