@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/meklitayele/Competitive-Programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/meklitayele/Competitive-Programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/meklitayele/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/meklitayele/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/meklitayele/Competitive-Programming/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0137-single-number-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/meklitayele/Competitive-Programming/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/meklitayele/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/meklitayele/Competitive-Programming/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/meklitayele/Competitive-Programming/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/0142-linked-list-cycle-ii) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/meklitayele/Competitive-Programming/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/meklitayele/Competitive-Programming/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/meklitayele/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
