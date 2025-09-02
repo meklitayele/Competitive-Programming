@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2621-find-xor-beauty-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/meklitayele/Competitive-Programming/tree/master/2665-minimum-time-to-repair-cars) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/meklitayele/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/meklitayele/Competitive-Programming/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## String
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/meklitayele/Competitive-Programming/tree/master/2556-convert-the-temperature) |
 | [2621-find-xor-beauty-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -951,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/meklitayele/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -963,4 +967,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/meklitayele/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
