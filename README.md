@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/meklitayele/Competitive-Programming/tree/master/3195-separate-black-and-white-balls) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/meklitayele/Competitive-Programming/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3462-vowels-game-in-a-string](https://github.com/meklitayele/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/meklitayele/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
+| [3462-vowels-game-in-a-string](https://github.com/meklitayele/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/meklitayele/Competitive-Programming/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/meklitayele/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
