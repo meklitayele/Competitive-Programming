@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/meklitayele/Competitive-Programming/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/meklitayele/Competitive-Programming/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/meklitayele/Competitive-Programming/tree/master/2176-parallel-courses-iii) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/meklitayele/Competitive-Programming/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/meklitayele/Competitive-Programming/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/meklitayele/Competitive-Programming/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/meklitayele/Competitive-Programming/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/meklitayele/Competitive-Programming/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/meklitayele/Competitive-Programming/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Prefix Sum
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/meklitayele/Competitive-Programming/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [2050-count-good-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/2050-count-good-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/meklitayele/Competitive-Programming/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/meklitayele/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/meklitayele/Competitive-Programming/tree/master/2491-smallest-even-multiple) |
 ## Interactive
 |  |
