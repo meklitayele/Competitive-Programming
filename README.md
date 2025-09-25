@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/meklitayele/Competitive-Programming/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/meklitayele/Competitive-Programming/tree/master/0399-evaluate-division) |
+| [0403-frog-jump](https://github.com/meklitayele/Competitive-Programming/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/meklitayele/Competitive-Programming/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/meklitayele/Competitive-Programming/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/meklitayele/Competitive-Programming/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/meklitayele/Competitive-Programming/tree/master/0338-counting-bits) |
+| [0403-frog-jump](https://github.com/meklitayele/Competitive-Programming/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0542-01-matrix) |
