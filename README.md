@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/meklitayele/Competitive-Programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/meklitayele/Competitive-Programming/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/meklitayele/Competitive-Programming/tree/master/0542-01-matrix) |
+| [0815-champagne-tower](https://github.com/meklitayele/Competitive-Programming/tree/master/0815-champagne-tower) |
 | [0943-sum-of-subarray-minimums](https://github.com/meklitayele/Competitive-Programming/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/meklitayele/Competitive-Programming/tree/master/1013-fibonacci-number) |
 | [1117-as-far-from-land-as-possible](https://github.com/meklitayele/Competitive-Programming/tree/master/1117-as-far-from-land-as-possible) |
