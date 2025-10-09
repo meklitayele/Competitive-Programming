@@ -11,7 +11,7 @@ class Trie:
         curr = self.root
         for char in word:
             idx = ord(char) - ord('a')
-            if curr.children[idx] == None:
+            if not curr.children[idx] :
                 curr.children[idx] = TrieNode()
             curr = curr.children[idx]
         curr.is_end = True
@@ -23,7 +23,7 @@ class Trie:
         curr  = self.root
         for char in word:
             idx = ord(char) - ord('a')
-            if curr.children[idx] == None:
+            if not curr.children[idx]:
                 return False
             curr = curr.children[idx]
         return curr.is_end
@@ -33,7 +33,7 @@ class Trie:
         curr  = self.root
         for char in prefix:
             idx = ord(char) - ord('a')
-            if  curr.children[idx] == None:
+            if not curr.children[idx] :
                 return False
             curr = curr.children[idx]
         return True
