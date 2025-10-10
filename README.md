@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meklitayele/Competitive-Programming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3643-zero-array-transformation-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3790-fruits-into-baskets-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/meklitayele/Competitive-Programming/tree/master/1477-product-of-the-last-k-numbers) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/meklitayele/Competitive-Programming/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2465-shifting-letters-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meklitayele/Competitive-Programming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3643-zero-array-transformation-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
