@@ -1,20 +1,24 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        @cache
-        def pow(x,n):
-            if n == 0:
-                return 1
-            if n == 1:
-                return x
-                
-            if n % 2 == 0:
-                half = pow(x, n//2)
-                return half * half
-            else:
-                half = pow(x, n//2)
-                return half * half * x
-        return pow(x,n) if  n > 0 else 1/pow(x,-n)
+        result = 1
+        negative = n < 0
+        n = abs(n)
 
+        #while we still have the exponent
+        while n > 0:
+            #if we have a set bit
+            if n & 1:
+                result *= x
+            x *= x
+            n >>= 1
         
+        if negative:
+            return 1 / result
+        else:
+            return result
+            
+
+
+            
 
         
