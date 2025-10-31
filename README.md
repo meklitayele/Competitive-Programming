@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/meklitayele/Competitive-Programming/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/meklitayele/Competitive-Programming/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meklitayele/Competitive-Programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-zero-array-transformation-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3643-zero-array-transformation-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/meklitayele/Competitive-Programming/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3790-fruits-into-baskets-ii) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/meklitayele/Competitive-Programming/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/meklitayele/Competitive-Programming/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/meklitayele/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meklitayele/Competitive-Programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
 | ------- |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/meklitayele/Competitive-Programming/tree/master/3055-maximum-odd-binary-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/meklitayele/Competitive-Programming/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/meklitayele/Competitive-Programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
