@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1762-furthest-building-you-can-reach](https://github.com/meklitayele/Competitive-Programming/tree/master/1762-furthest-building-you-can-reach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/meklitayele/Competitive-Programming/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/meklitayele/Competitive-Programming/tree/master/1876-map-of-highest-peak) |
+| [1929-concatenation-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [1962-single-threaded-cpu](https://github.com/meklitayele/Competitive-Programming/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/meklitayele/Competitive-Programming/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/meklitayele/Competitive-Programming/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/meklitayele/Competitive-Programming/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/meklitayele/Competitive-Programming/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/meklitayele/Competitive-Programming/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/meklitayele/Competitive-Programming/tree/master/1929-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/meklitayele/Competitive-Programming/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/meklitayele/Competitive-Programming/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/meklitayele/Competitive-Programming/tree/master/3600-find-the-k-th-character-in-string-game-i) |
